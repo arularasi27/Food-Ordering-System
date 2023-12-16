@@ -37,8 +37,4 @@ To run the project locally, follow these steps:
 5. Run the Angular app using `ng serve`.
 6. Launch the ASP.NET Web API using `dotnet run`.
 
-## Contributors 👥
-- [@YourUsername](link to your GitHub profile)
 
-## License 📝
-This project is licensed under the [MIT License](link to license file).
